@@ -9,3 +9,5 @@ Les cas en cours ou fait en classe
 * FFBSQ
 * EQUIDIA
 Git02
+
+Pour en savoir plus allez sur [google](http://www.google.com).
